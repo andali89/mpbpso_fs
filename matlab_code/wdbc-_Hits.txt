@@ -1,0 +1,3 @@
+Hits: 5006, nonHits: 4994 
+Hits: 5022, nonHits: 4978 
+Hits: 4828, nonHits: 5172 
